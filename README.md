@@ -22,5 +22,5 @@ This section has various images that displays the projects that I will complete 
 ## Contact Me Section 
 This section has my contact information which includes my phone number, email, GitHub page, and Linkedin page. 
 
-### Link to deployed application: 
+### Link to deployed application: https://haredahmed99.github.io/my-portfolio/
 
